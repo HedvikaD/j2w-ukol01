@@ -1,0 +1,40 @@
+body {
+    color: #b7a028;
+    background-color: #9e1a69;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 50px 400px;
+    text-align: center;
+}
+
+h1{
+    font-size: 80px;
+    color: #7a8f6b;
+    margin: 0;
+    text-shadow: 0 3px 10px #03258C;
+}
+
+img {
+    width: 30%;
+    border-radius: 50%;
+}
+
+.text {
+    text-align: justify;
+}
+
+.fotogalerie img{
+    width: 45%;
+    border: 2px solid #03258C;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.paticka {
+    font-size: 20px;
+    color: #03258C;
+    background-color: #a43879;
+    padding: 2px;
+}
